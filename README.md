@@ -1,7 +1,5 @@
 # CS114.L21.KHCL
 <html>
-  <head>
-  Machine Learning CS114.L21.KHCL
   <style>
 table {
   width:100%;
@@ -25,6 +23,8 @@ th, td {
   color: white;
 }
     </style>
+   <head>
+  Machine Learning CS114.L21.KHCL
   </head>
   <body>
     <h1>Giới thiệu bản thân</h1>
