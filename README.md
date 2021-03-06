@@ -16,7 +16,7 @@ th, td {
   background-color: #eee;
 }
 #t01 tr:nth-child(odd) {
- background-color: #fff;
+ background-color: #4B0082;
 }
 #t01 th {
   background-color: black;
