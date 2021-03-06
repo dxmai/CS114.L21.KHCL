@@ -32,7 +32,7 @@ th, td {
     <p>MSSV: 195821820</p>
     <p>Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, khóa K14)</p>
     <h1> Danh sách nhóm </h1>
-     <table>
+     <table id = "t01">
   <tr>
     <th>STT</th>
     <th>Họ tên</th>
