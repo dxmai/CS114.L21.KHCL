@@ -13,21 +13,25 @@
   <tr>
     <th>STT</th>
     <th>Họ tên</th>
+    <th>MSSV</th>
     <th>Email</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Đặng Xuân Mai</td>
+    <td>19521820</td>
     <td>19521820@gm.uit.edu.vn</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Nguyễn Thị Thảo Hiền</td>
+    <td>19521488</td>
     <td>19521488@gm.uit.edu.vn</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Nguyễn Thị Ly</td>
+    <td>19521818</td>
     <td>19521818@gm.uit.edu.vn</td>
   </tr>
 </table> 
