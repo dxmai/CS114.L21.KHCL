@@ -1,17 +1,15 @@
 # CS114.L21.KHCL
 <html>
+<head>
   <style>
-table {
+table{
   width:100%;
 }
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-th, td {
-  padding: 15px;
-  text-align: left;
-}
+
 #t01 tr:nth-child(even) {
   background-color: #eee;
 }
@@ -23,7 +21,6 @@ th, td {
   color: white;
 }
     </style>
-   <head>
   Machine Learning CS114.L21.KHCL
   </head>
   <body>
@@ -61,6 +58,7 @@ th, td {
     <td>19521818@gm.uit.edu.vn</td>
     <td> <a href = "https://github.com/nguyenthily1605/CS114.L21.KHCL/">nguyenthily1605</a></td>
   </tr>
-</table> 
+    </table> 
+</body>
 </html>
 
