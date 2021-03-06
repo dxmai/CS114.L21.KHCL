@@ -1,9 +1,8 @@
-# CS114.L21.KHCL
-Machine Learning CS114.L21.KHCL
+# Machine Learning CS114.L21.KHCL
 
 ## Giới thiệu bản thân
-Họ và tên sinh viên: Đặng Xuân Mai
-MSSV: 195821820
+Họ và tên sinh viên: Đặng Xuân Mai</br>
+MSSV: 195821820 </br>
 Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, khóa K14)
 
 ## Danh sách nhóm
