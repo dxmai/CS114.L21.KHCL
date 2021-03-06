@@ -2,10 +2,27 @@
 <html>
   <head>
   Machine Learning CS114.L21.KHCL
-    <style>
-  table, th, td {
+  <style>
+table {
+  width:100%;
+}
+table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
 }
     </style>
   </head>
@@ -15,7 +32,7 @@
     <p>MSSV: 195821820</p>
     <p>Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, khóa K14)</p>
     <h1> Danh sách nhóm </h1>
-     <table style="width:100%">
+     <table>
   <tr>
     <th>STT</th>
     <th>Họ tên</th>
