@@ -2,6 +2,12 @@
 <html>
   <head>
   Machine Learning CS114.L21.KHCL
+    <style>
+  table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+    </style>
   </head>
   <body>
     <h1>Giới thiệu bản thân</h1>
