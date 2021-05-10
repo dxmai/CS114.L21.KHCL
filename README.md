@@ -5,7 +5,7 @@ Họ và tên sinh viên: Đặng Xuân Mai</br>
 MSSV: 195821820 </br>
 Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, khóa K14)
 
-## Danh sách nhóm
+## Danh sách nhóm [Đã cập nhật lại nhóm mới]
 |**STT**|**Họ và tên**|**MSSV**|**Github**|
 |---|---|---|---|
 |1|Đặng Xuân Mai|19521820|[dxmai](https://github.com/dxmai/CS114.L21.KHCL/)|
@@ -14,3 +14,18 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
 |4|Nguyễn Hoài Nam|18521126|[hoainam2310](https://github.com/hoainam2310/CS114.KHCL/)|
 
 
+## Bài tập quá trình
+
+
+## Bài tập Wecode
+* [Tuần 1]()
+* [Tuần 1.2]()
+* [Tuần 2]()
+* [Tuần 3]()
+* [Tuần 4]()
+
+## Bài tập Google Colab
+* [Hand Written Digits Recognition]()
+* [Dự đoán thời gian chạy chương trình]()
+
+## Đồ án cuối kỳ
