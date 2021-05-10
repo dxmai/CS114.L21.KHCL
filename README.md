@@ -18,11 +18,11 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
 
 
 ## Bài tập Wecode
-* [Tuần 1]()
-* [Tuần 1.2]()
-* [Tuần 2]()
-* [Tuần 3]()
-* [Tuần 4]()
+* [Tuần 1 - Warm up](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Wecode/Tu%E1%BA%A7n%201%20-%20Warm%20up)
+* [Tuần 1.2 - Tăng tốc từu từ](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Wecode/Tu%E1%BA%A7n%201.2%20-%20T%C4%83ng%20t%E1%BB%91c%20t%E1%BB%AB%20t%E1%BB%AB)
+* [Tuần 2 - Chú ý thời gian chạy chương trình](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Wecode/Tu%E1%BA%A7n%202%20-%20Ch%C3%BA%20%C3%BD%20th%E1%BB%9Di%20gian%20ch%E1%BA%A1y%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh)
+* [Tuần 3 - Ôn tiếp cấu trúc dữ liệu](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Wecode/Tu%E1%BA%A7n%203%20-%20%C3%94n%20ti%E1%BA%BFp%20c%E1%BA%A5u%20tr%C3%BAc%20d%E1%BB%AF%20li%E1%BB%87u)
+* [Tuần 4 - Bài tập wecode cuối cùng](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Wecode/Tu%E1%BA%A7n%204%20-%20B%C3%A0i%20t%E1%BA%ADp%20wecode%20cu%E1%BB%91i%20c%C3%B9ng)
 
 ## Bài tập Google Colab
 * [Hand Written Digits Recognition]()
