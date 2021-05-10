@@ -15,6 +15,8 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
 
 
 ## Bài tập quá trình
+* [Các bài toán có thể giải quyết bằng Machine Learning](https://github.com/dxmai/CS114.L21.KHCL/blob/main/B%C3%A0i%20t%E1%BA%ADp%20l%E1%BA%A5y%20%C4%91i%E1%BB%83m%20qu%C3%A1%20tr%C3%ACnh/CS114.L21.KHCL_02.04.2021.jpg)
+* [Các ví dụ về bài toán Linear Regression **trong thực tế**](https://github.com/dxmai/CS114.L21.KHCL/blob/main/B%C3%A0i%20t%E1%BA%ADp%20l%E1%BA%A5y%20%C4%91i%E1%BB%83m%20qu%C3%A1%20tr%C3%ACnh/Linear_Regression.md)
 
 
 ## Bài tập Wecode
