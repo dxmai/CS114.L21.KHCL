@@ -77,7 +77,7 @@ B*2*: sự thay đổi trung bình của sản lượng khi lượng nước tă
 
 ### Dự đoán tác động của chế độ tập luyện lên các cầu thủ ở NBA
 
-**Input**: số lượng buổi tập yoga (kiểu số nguyên) và số lượng buổi tập nâng tạ (kiểu nguyên)
+**Input**: số lượng buổi tập yoga (kiểu số nguyên - đơn vị buổi) và số lượng buổi tập nâng tạ (kiểu nguyên - đơn vị buổi)
 
 **Output**: số điểm dự đoán có thể ghi được (kiểu số nguyên)
 
