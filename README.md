@@ -27,7 +27,7 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
 * [Tuần 4 - Bài tập wecode cuối cùng](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Wecode/Tu%E1%BA%A7n%204%20-%20B%C3%A0i%20t%E1%BA%ADp%20wecode%20cu%E1%BB%91i%20c%C3%B9ng)
 
 ## Bài tập Google Colab
-* [Hand Written Digits Recognition]()
-* [Dự đoán thời gian chạy chương trình]()
+* [Hand Written Digits Recognition](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Colab/Hand%20Written%20Digits%20Recognition)
+* [Dự đoán thời gian chạy chương trình](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/Linear_Regression.ipynb)
 
 ## Đồ án cuối kỳ
