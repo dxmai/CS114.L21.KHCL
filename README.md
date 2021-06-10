@@ -30,5 +30,6 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
 * [Hand Written Digits Recognition](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Colab/Hand%20Written%20Digits%20Recognition)
 * [Dự đoán thời gian chạy chương trình](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/Linear_Regression.ipynb)
 * [Dự đoán điểm cuối kỳ của sinh viên](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/DuDoanDiemCuoiKi.ipynb)
+* [Sarcasm Detection](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection.ipynb)
 
 ## Đồ án cuối kỳ
