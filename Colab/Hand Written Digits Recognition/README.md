@@ -1,1 +1,0 @@
-Nhóm em đã nộp bài đúng hạn nhưng vẫn đang cố gắng chỉnh lại bài tập này ạ. Em dùng github không quen cho lắm nên cứ xóa sửa rất nhiều, hy vọng thầy bỏ qua khi xem lại phần lịch sử chỉnh sửa của bài tập này (cũng như những bài tập khác ạ).
