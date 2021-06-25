@@ -41,8 +41,8 @@ Dùng những kiến thức đã có ở Python, kết hợp với thư viện *
 Bộ dữ liệu lọc những thông tin trong khoảng **2-3 năm trở lại** đây để đảm bảo được tính mới. 
 
 Chương trình gom dùng scrapy để tổng hợp những thông tin trên báo mạng:
-+ Chương trình tổng hợp những trang tin giả [link](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/Collect_Data.ipynb)
-+ Ngoài ra còn có chương trình tổng hợp những trang tin châm biếm mà nhóm em đã làm để thầy có thể **nhận xét thêm** về quá trình và cách thức xây dựng bộ dữ liệu của chúng em [link](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection.ipynb)
++ Chương trình tổng hợp những trang tin giả [[Link]](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/Collect_Data.ipynb)
++ Ngoài ra còn có chương trình tổng hợp những trang tin châm biếm mà nhóm em đã làm để thầy có thể **nhận xét thêm** về quá trình và cách thức xây dựng bộ dữ liệu của chúng em [[Link]](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection.ipynb)
 
 Dữ liệu có định dạng giống dataset có sẵn trên [kaggel](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) nhưng nhóm sẽ chỉnh lại theo đúng bài toán mà mình đang hướng đến như sau:
 
