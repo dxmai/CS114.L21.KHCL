@@ -64,6 +64,13 @@ Hiện tại nhóm em đã thu thập được trên 200 nghìn tiêu đề củ
 + Chuyển các từ về dạng số bằng cách sử dụng tf-idf (hoặc những cách khác như Tokenizer, padding - em chỉ mới tìm hiểu được như vậy, nếu thầy duyệt đồ án thì em sẽ tìm hiểu kỹ hơn các kỹ thuật ạ)
 + Xử lý các từ mới nếu bộ test có từ nằm ngoài những từ đã được train (Out of vocabulary - OOV)
 
+
+EDIT:
+
+Đây là bài colab mà em đã thực hiện trên bộ dữ liệu Sarcasm Detection. Em biết là vẫn cần cải thiện thêm rất nhiều về bài toán này, nhưng em đã cố gắng để hoàn thiện được bài tập này tốt nhất theo cách của em. Nếu thầy xem xét duyệt đồ án "Nhận diện tin giả" này, em sẽ cố gắng tìm kiếm thêm nhiều phương pháp hơn nữa để cải tiến. Hy vọng thầy sớm duyệt đồ án cho em! Em cảm ơn!
+
+Link đến bài Colab: [Sarcasm Detection](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection_Model.ipynb) 
+
  Hết
  
 *Em hy vọng là thầy sẽ sớm duyệt đồ án cho nhóm em ạ. Em xin cảm ơn và chúc thầy 1 ngày tốt lành!*
