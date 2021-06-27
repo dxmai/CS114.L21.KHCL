@@ -38,6 +38,6 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
    + [Model, Training, Testing](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection_Model.ipynb)
  
 ## Đồ án cuối kỳ
-[Mô tả ý tưởng đồ án cuối kỳ - Nhận diện tin giả](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProjectIdea.md)
-[Dataset](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/Dataset)
-[Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/Collect_Data.ipynb)
++ [Mô tả ý tưởng đồ án cuối kỳ - Nhận diện tin giả](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProjectIdea.md)
++ [Dataset](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/Dataset)
++ [Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/Collect_Data.ipynb)
