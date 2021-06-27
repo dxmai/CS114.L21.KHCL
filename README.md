@@ -30,6 +30,14 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
 * [Hand Written Digits Recognition](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Colab/Hand%20Written%20Digits%20Recognition)
 * [Dự đoán thời gian chạy chương trình](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/Linear_Regression.ipynb)
 * [Dự đoán điểm cuối kỳ của sinh viên](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/DuDoanDiemCuoiKi.ipynb)
-* [Sarcasm Detection](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection.ipynb)
-
+* Sarcasm Detection
+  + Dataset đã thu thập được dưới dạng file .json
+       + [Dataset trong vòng 3 năm trở lại đây](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Colab/SarcasmDetection/Dataset/In-3-Years)
+       + [Dataset tổng hợp - lấy hết tất cả headline trên trang web tìm được](https://github.com/dxmai/CS114.L21.KHCL/tree/main/Colab/SarcasmDetection/Dataset/Others)
+   + [Code scrapy - quá trình thu thập dữ liệu](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection.ipynb)
+   + [Model, Training, Testing](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection_Model.ipynb)
+ 
 ## Đồ án cuối kỳ
+[Mô tả ý tưởng đồ án cuối kỳ - Nhận diện tin giả](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProjectIdea.md)
+[Dataset](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/Dataset)
+[Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/Collect_Data.ipynb)
