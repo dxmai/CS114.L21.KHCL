@@ -6,12 +6,12 @@ MSSV: 195821820 </br>
 Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, khóa K14)
 
 ## Danh sách nhóm [Đã cập nhật lại nhóm mới]
-|**STT**|**Họ và tên**|**MSSV**|**Github**|
-|---|---|---|---|
-|1|Đặng Xuân Mai|19521820|[dxmai](https://github.com/dxmai/CS114.L21.KHCL/)|
-|2|Nguyễn Thị Thảo Hiền|19521488|[nguyenthithaohien](https://github.com/nguyenthithaohien/CS114.L21.KHCL/)|
-|3|Nguyễn Thị Cẩm Hướng|19521594|[nguyenhuong2001](https://github.com/nguyenhuong2001/CS114.L22.KHCL/)|
-|4|Nguyễn Hoài Nam|18521126|[hoainam2310](https://github.com/hoainam2310/CS114.KHCL/)|
+|**STT**|**Họ và tên**|**MSSV**|**Github**|**Lớp**|
+|---|---|---|---|---|
+|1|Đặng Xuân Mai|19521820|[dxmai](https://github.com/dxmai/CS114.L21.KHCL/)|CS114.L21.KHCL|
+|2|Nguyễn Thị Thảo Hiền|19521488|[nguyenthithaohien](https://github.com/nguyenthithaohien/CS114.L21.KHCL/)|CS114.L21.KHCL|
+|3|Nguyễn Thị Cẩm Hướng|19521594|[nguyenhuong2001](https://github.com/nguyenhuong2001/CS114.L22.KHCL/)|CS114.L22.KHCL|
+|4|Nguyễn Hoài Nam|18521126|[hoainam2310](https://github.com/hoainam2310/CS114.KHCL/)|CS114.L22.KHCL|
 
 
 ## Bài tập quá trình
@@ -44,4 +44,5 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
      + [Tin giả](https://drive.google.com/file/d/17O1gzwEISmUew0k6_0knJkm5ehhqEKsD/view?usp=sharing)
      + [Tin thật](https://drive.google.com/file/d/1x6lznMSaPXMwyAC_d43uU2oDx4hkOHOi/view?usp=sharing)
 + [Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/FinalProject_FakeNews_CollectData.ipynb)
++ [Model](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/FakeNewsDetection_FinalModel.ipynb)
 + [Phát triển - ứng dụng](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/DevelopApp)
