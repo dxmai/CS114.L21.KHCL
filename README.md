@@ -39,5 +39,9 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
  
 ## Đồ án cuối kỳ
 + [Mô tả ý tưởng đồ án cuối kỳ - Nhận diện tin giả](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProjectIdea.md)
-+ [Dataset](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/Dataset)
-+ [Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/Collect_Data.ipynb)
++ [Dataset .json của từng trang báo thu thập được](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/Include_Text)
++ Dataset tổng hợp
+     + [Tin giả](https://drive.google.com/file/d/17O1gzwEISmUew0k6_0knJkm5ehhqEKsD/view?usp=sharing)
+     + [Tin thật](https://drive.google.com/file/d/1x6lznMSaPXMwyAC_d43uU2oDx4hkOHOi/view?usp=sharing)
++ [Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/FinalProject_FakeNews_CollectData.ipynb)
++ [Phát triển - ứng dụng](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/DevelopApp)
