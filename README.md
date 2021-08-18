@@ -1,7 +1,5 @@
 # Machine Learning CS114.L21.KHCL
 
-
-
 ## Giới thiệu bản thân
 Họ và tên sinh viên: Đặng Xuân Mai</br>
 MSSV: 195821820 </br>
@@ -40,11 +38,10 @@ Ngành theo học hiện tại: Khoa học máy tính (hệ đào tạo CLC, kh�
    + [Model, Training, Testing](https://github.com/dxmai/CS114.L21.KHCL/blob/main/Colab/SarcasmDetection/SarcasmDetection_Model.ipynb)
  
 ## Đồ án cuối kỳ
++ [Thư mục tổng hợp](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject)
 + [Mô tả ý tưởng đồ án cuối kỳ - Nhận diện tin giả](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProjectIdea.md)
-+ [Dataset .json của từng trang báo thu thập được](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/Include_Text)
-+ Dataset tổng hợp
-     + [Tin giả](https://drive.google.com/file/d/17O1gzwEISmUew0k6_0knJkm5ehhqEKsD/view?usp=sharing)
-     + [Tin thật](https://drive.google.com/file/d/1x6lznMSaPXMwyAC_d43uU2oDx4hkOHOi/view?usp=sharing)
 + [Code thu thập dataset](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/FinalProject_FakeNews_CollectData.ipynb)
 + [Model](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/FakeNewsDetection_FinalModel.ipynb)
-+ [Phát triển - ứng dụng](https://github.com/dxmai/CS114.L21.KHCL/tree/main/FinalProject/DevelopApp)
++ [Báo cáo đồ án cuối kỳ](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/B%C3%A1o%20c%C3%A1o%20%C4%91%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3.pdf)
++ [Tóm tắt báo báo](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/T%C3%B3m%20t%E1%BA%AFt%20b%C3%A1o%20c%C3%A1o.pdf)
+
