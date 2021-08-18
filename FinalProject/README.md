@@ -37,3 +37,5 @@ App
   
   + [Video demo](https://www.youtube.com/watch?v=giCGo96i_vU)
 
+[Final Report](https://github.com/dxmai/CS114.L21.KHCL/blob/main/FinalProject/B%C3%A1o%20c%C3%A1o%20%C4%91%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3.pdf)
+
